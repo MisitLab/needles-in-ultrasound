@@ -14,6 +14,8 @@ On this page you can find codes, processed data and relevant files that belong t
 
 **Youtube**: t.b.d.
 
+**License**: https://creativecommons.org/licenses/by-sa/4.0/
+
 ## Subdirectories:
 **Data summary**: quick overview of data (Matlab)
 - 'ech_collected_data.mat' contains needle echogenicity data,
