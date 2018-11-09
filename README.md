@@ -10,9 +10,7 @@ On this page you can find codes, processed data and relevant files that belong t
 
 **DOI**: t.b.d.
 
-**Link**: t.b.d.
-
-**Youtube**: t.b.d.
+**Youtube**: https://www.youtube.com/watch?v=cV3IzCwuDls
 
 **License**: https://creativecommons.org/licenses/by-sa/4.0/
 
