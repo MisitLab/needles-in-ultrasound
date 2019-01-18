@@ -8,7 +8,7 @@ On this page you can find codes, processed data and relevant files that belong t
 
 **Journal**: Ultrasound in Medicine & Biology
 
-**DOI**: t.b.d.
+**DOI**: https://doi.org/10.1016/j.ultrasmedbio.2018.10.004
 
 **Youtube**: https://www.youtube.com/watch?v=cV3IzCwuDls
 
